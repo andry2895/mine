@@ -1,0 +1,21 @@
+{
+    "dir" : "ltr",
+    "lang" : "it-IT",
+    "name" : "",
+    "scope" : "/CHARME",
+    "display" : "fullscreen",
+    "start_url" : "/CHARME",
+    "short_name" : "OSM",
+    "theme_color" : "transparent",
+    "description" : "",
+    "orientation" : "any",
+    "background_color" : "transparent",
+    "generated" : "true",
+    "icons" : [
+        {
+            "src": "assets/dist/img/logo.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
