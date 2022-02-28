@@ -1,0 +1,16 @@
+<?php
+
+$settings = [
+    'orientation' => 'P',
+    'format' => 'A4',
+    'font-size' => 10,
+    'margins' => [
+        'top' => 10,
+        'bottom' => 10,
+        'left' => 12,
+        'right' => 12,
+    ],
+    'header-font-size' => 10,
+];
+
+return $settings;
